@@ -6,7 +6,7 @@ camera:
   exposureCompensation: 0
   exposure_mode: auto
   hFlip: false
-  saturation: 83
+  saturation: 0
   sharpness: 39
   shutterSpeed: 25000
   vFlip: false
